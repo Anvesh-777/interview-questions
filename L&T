@@ -40,3 +40,43 @@ What is illegal pointer and memory leak.
 What are the error handling techniques 
 How you debug your code
 Tell me the Git work fllow
+===============================================================================================================
+L&T Interview questions
+
+1. Self intro?
+2. Breif Explanation about latest project?
+3. Tell me about Linux ?
+4. As a developer What you implenetd?
+5. Why we need RTOS in embedded systems?
+6. In your project where you Use RTOS?
+7. What is Task?
+8. To create a tast what are the paramentrs wehave to pass?
+9. If mempory is constarin Which one you prefer Satic or Dynamic,Why?
+10. What is segmantation fault,how you avoid?
+
+11. //WAPto reverse string using pointers
+//Friend -> dneirF
+#include <stdio.h>
+#include <string.h>
+
+int main()
+{
+    char arr[]="friend";
+    char *start=arr;
+    char *end=arr + strlen(arr) - 1;
+    char temp;
+    printf("Before = %s\n", arr);
+
+    while (start<end)
+    {
+        temp=*start;
+        *start=*end;
+        *end=temp;
+        start++;
+        end--;
+    }
+
+    printf("After = %s\n", arr);
+
+    return 0;
+}

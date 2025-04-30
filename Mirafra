@@ -1,0 +1,19 @@
+1. Input 0x22883344
+Output 0x44338822 (Change the endianness)
+2. Write a program by Dynamic memory allocation 
+3. Diff in c EM c explain with code
+4. What is volatile 
+5. Explain Boot sequence 
+6. What GRUB
+7. WHAT IS Uboot 
+8. Udev what it will do
+9. What is DMA
+10. Explain about the root file
+11. Explain about all protocols UART, I2C, SPI
+12. Explain about iNode
+13. Implement queue data structure
+14. Explain about storage class
+15. WAP on callback function
+16. Explain about Device tree 
+17. What happens when a function is called by value and reference 
+Mostly he asked from LDD

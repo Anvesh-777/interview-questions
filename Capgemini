@@ -1,0 +1,10 @@
+1. Reverse number
+2. Set msb in char variable 
+3. Print substring without string handling functions
+4. Write a program to know how many times it's called 
+5. Write a code to toggle gpio pin based on LED status 
+6. Explain static , register storage class
+7. Why the auto variable default value is Garbage and static value as 0
+8. What happens if the register storage is full where it stores
+9. WAP input:123456
+       output:561234 

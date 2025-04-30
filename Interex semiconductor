@@ -1,11 +1,53 @@
-What is pointer 
-Difference between malloc and calloc
-How you free the DMA without free function 
-What is a function pointer
-WAP call a function by using a function pointer by call by reference. 
-WAP to count the number of words in a string
-"AAA BBB CCCC D "
-Tell me about OS concepts 
-Want is context switching 
-Tell me about Kernal 
-WAP input:OxABCD output: OXCDAB 
+1.self introduction
+2.Project description
+3.what is volatile and it's working
+4.specifications of IMX287 and LPC2148
+5.What is the Unit Testing
+6.Find the second largest element in array
+7.Convert little endian to big endian
+8.input: 0x12345678
+   Output: 0x21435678
+9.Explain memory layout with a program
+10.Explain about Extern storage class.
+11.Explain about structure padding.
+12.Output prediction 
+#include <stdio.h>
+#include <stdlib.h>
+struct node {
+struct node N;
+int data;
+void *ptr;
+};
+void main ()
+{
+printf("Size of node n:%d\n",sizeof(struct node));
+}
+13.
+#include<stdio.h>
+#include<stdlib.h>
+int val[]={20,5,30,40,50};
+
+int *func()
+{
+return val;
+}
+
+void main()
+{
+*func()=val;
+printf("%d\n", ++((func()[3])));
+}
+14.#include<stdio.h>
+int main()
+{
+
+int *p1[5];    
+int *(p2[5]);  
+int (*p3)[5];  
+printf(" sizeof *p1[3]=%d\n",   sizeof(p1));
+printf(" sizeof *(p2[3])=%d\n", sizeof(p2));
+printf(" sizeof *p3)[3] =%d\n", sizeof(p3));
+}
+15.Explain about pointer to array and array of pointer
+16.Explanation about I2C and SPI protocol
+17. Explain about TCP

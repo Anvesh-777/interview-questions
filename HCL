@@ -1,0 +1,39 @@
+Intro
+Project Explanation
+What are the micro controller  u you are worked and its Number and no of Pins on it
+For which  companies u worked and what are the projects you did
+Have you worked on Comm Protocols
+Questions on SPI 
+How u used SPI in your code and speed of SPI Apart form others why only SPI USED 
+Write piece of code on SPI and explain step by step
+Which mode u used in your project and Y
+How u used this in your real time project
+I2C
+Have u used i2c in u r project how much speed, for which sensor u used this 
+Implementation ofi2c in u r real time project.
+Speed of i2c
+
+C coding
+Have u used function pointer in your project coding and What is the use of Fp in firmware development
+write a piece of code on function pointer
+
+implement a struct with members int char float by using functions pass these parameters
+
+What is the use of stack pointer.
+Write a code on stack push and pop
+
+RTOS
+
+Which RTOS u r using in your project
+How did you used IPC mechanisms in U R project
+What is the use of Semaphore and how handle explain with code 
+Do you have any idea about reentering 
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,34 @@
+1st Ronud
+Self intro
+What are the micro controllers you worked
+What are the challenges you faced and how resolved those are.
+In design and testing what are your responsibilities.
+Draw block diagram of I2C and spi explain difference 
+Whit to display any thing on LCD 
+What are the Hardware registers you know in your micro controller 
+Which Debuggers you know how did you work with that
+Temperature sensor follows Which protocol 
+Write a C program to set 4th bit, and program to replace 28th and 29th bit values with 4th and 5th.
+Write a program to turn on and off LED by using GPIO registers.
+
+2nd Round
+Why AUTOSAR came into picture and it's advantages 
+Can you explain why Encryption and decryption needed in your project 
+What are Modes do you know in encryption 
+What is Full form of CBC
+What is the size of AES,IV and Key
+Write the algorithm or code for Encryption 
+What is the difference between symmetric and assymetric encryption 
+Swap two variables without using 3rd variable 
+Explain compilation stages.
+Write a program on Queue 
+To increase 1byte  and 4 bytes of address location 0x1000 how you do 
+Write code to mask_write()
+Input parameters are, Register_address, mask and value to update.
+Write a code to print the number is even or odd
+Write a program To set and clear GPIO pin 13 by using register.
+What is content inside the IOSET and IOCLR registers.
+How you write the test cases for the below API s on position and negative scenarios 
+Init_AES(mode,IV);
+Update (pt, Len); pt:plain text
+Finish(*tag);

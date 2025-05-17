@@ -1,45 +1,4 @@
-Reverse numbers//123->321
-set MSB in Char variable
-Print substring in a string without using string hanndling functions
-WAP to print One function how many times it is called
-WAP to togglw GPIO pin based on LED status
-Explain storage classes
-What is constatnt and volatile
-Why auto variable value as Garbage value and static value as 0
-What happend if the register storage is full
-Expalin about malloc and calloc write syntaxes
-Reverse 16 bit integer data bits
-WAP to remove the dulictaes from the given array
-Write macros for set and clear particular bits 
-WAP to find the endiannes of the system
-WAP to find set bits within limited itreataions
-Explian about the static variable
-Is storage class applicable on structure members 
-WAP to take Binary datat as string and print in Binary form
-What is recursion 
-WAP to access structre variable by using pointer 
-Wap to demonstate on function pointer 
-Exlain about Callback function
-What is ISR
-Storage class
-Structure and Union difference 
-What difference between I2C and SPI
-What arbitration in i2c
-Wat is clock stretching in I2C
-WAP for string reverse 
-WAP to find the missing number in N natural numbers of array.
-Swap two numbers by using Bitwise operators.
-Count set bits and find the 1st set bit from 0th position.
-What the commands u know in linux 
-How UART will work
-How to interphase UART and RS232
-What is the role of SPI driver in your project 
-What is the use of linkedin list
-Write Linkedlist structure 
-What is illegal pointer and memory leak.
-What are the error handling techniques 
-How you debug your code
-Tell me the Git work fllow
+
 ===============================================================================================================
 L&T Interview questions
 

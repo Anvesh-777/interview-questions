@@ -32,3 +32,25 @@ How you write the test cases for the below API s on position and negative scenar
 Init_AES(mode,IV);
 Update (pt, Len); pt:plain text
 Finish(*tag);
+
+
+=============================================================================
+28-05-2025
+1. Can you explain the What is CLI implementation and what are commands you implemented
+2. How the command will work like how it will interact with hardware
+3. Can you explain the AES mode 2 and mode 3 difference 
+4. What is the difference between HW and SW AES
+5. What are the APIs you implemented and how it will work.
+6. Explain AES algorithm 
+7. Exactly when Encryption and decryption came into picture 
+8. Explain about cell pointers ,Where you exactly worked like Application, kernel or driver level.
+9. Explain about protocol
+10. What is the difference between Half duplex and full duplex 
+11. What is the maximum speed for I2C and SPI
+12. Explain about the I2C protocol like how the communication starts and ends.
+13. Explain about the SPI pins and I2C pins
+14. WAP to toggle the even bits in a integer data, customize the code without loops.
+15. Remove duplicate elements from array with minimum loops
+16. Explain about the storage class and brief about the static key words.
+17. Explain about static function.
+18. What is the volatile and what is the need of this.

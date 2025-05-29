@@ -1,0 +1,21 @@
+	1. Can you explain the compilation stages?
+	2. What is the difference between c and embedded c? and its applications?
+	3. How to open .i(pure c code) .s(Assembly file) .o(object file) files?
+	4. Who will call the main function ? have you ever seen that?
+	5. Can you explain the types of errors in c language?
+	6. If I add the same header file multiple times in the same file, is it increase the file size?
+	7. How many types of errors we have in C and what are they? Can you create those errors?
+	8. What is the storage class?
+	9. How many storage classes we have in c language? What are they?
+	10. Explain the scope, life time, default value, and memory locations of AUTO, EXTERN, STATIC, REGISTER variables?
+	11. For example, the register memory available for only 10 register variables, even though if I tried to create 11th register variable what happens?
+	12. If the stack memory full then what happens? In which scenarios it will full?
+	13. If the heap section full then if I try to create dynamic memory allocation, what happens?
+	14. What is the use of static variable?
+	15. In 1.c file I have one global static variable. Is is possible to access that variable in 2.c file?
+	16. What is the use of extern key word? have you ever used?
+	17. What is the difference between  initialized and uninitialized data segment?
+	18. What is BSS portion in memory layout?
+	19. Is it possible to know register variable address? if yes write sample code ? If no why?
+	20. What is the purpose of static function?
+  21. If I assign a integer variable to static variable what happens?

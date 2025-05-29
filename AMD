@@ -47,10 +47,11 @@ Finish(*tag);
 9. Explain about protocol
 10. What is the difference between Half duplex and full duplex 
 11. What is the maximum speed for I2C and SPI
-12. Explain about the I2C protocol like how the communication starts and ends.
-13. Explain about the SPI pins and I2C pins
-14. WAP to toggle the even bits in a integer data, customize the code without loops.
-15. Remove duplicate elements from array with minimum loops
-16. Explain about the storage class and brief about the static key words.
-17. Explain about static function.
-18. What is the volatile and what is the need of this.
+12. How the slave give the acknowledgemnt to the master
+13. Explain about the I2C protocol like how the communication starts and ends.
+14. Explain about the SPI pins and I2C pins
+15. WAP to toggle the even bits in a integer data, customize the code without loops.
+16. Remove duplicate elements from array with minimum loops
+17. Explain about the storage class and brief about the static key words.
+18. Explain about static function.
+19. What is the volatile and what is the need of this.

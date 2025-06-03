@@ -55,3 +55,25 @@ Finish(*tag);
 17. Explain about the storage class and brief about the static key words.
 18. Explain about static function.
 19. What is the volatile and what is the need of this.
+
+***************2nd  Round***********************
+1. Intro
+2. Can you explain the AES algorithm
+3. What is the main difference between Mode-2 and Mode-3 
+4. What are the modes you know other than CBC mode
+5. Why you used this Enc and Dec
+6. What are the APIs you implemented in AES ENC and DEC
+7. How the Booting process happened in ARM based micro controler
+8. Which code is execute in booting time
+9. STACK fallows FIFO or LIFO
+10. write a sample code and explain How the stack pointer will works
+11. Can you explain how the interrupt will works
+12. Explain about the INTRUPT VECTOR TABLE
+13. What contains the IV Table
+14. Have you ever use ARM micro controller
+15. Have you know about Reset Handler
+16. What is the difference between H/W and S/W interrupts 
+17. Do you know about Lauterbach and JTAG
+18. How you used TRACE32
+19. Explain me about any project management tool like what are the commands you used and why
+20. Write code to read the 32 bit IP_REGISTER data and read the 9th bit, If its set then clear the 2nd bit, if its clear set the 1st bit.

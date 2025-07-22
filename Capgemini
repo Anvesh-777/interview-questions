@@ -20,3 +20,30 @@ Tell me about OS concepts
 Want is context switching 
 Tell me about Kernal 
 WAP input:OxABCD output: OXCDAB
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1. Intro
+2. What is the deadlock situation and How to avoid this
+3. What is Virtual memory
+4. What is the booting sequency of embedded sysytem
+5. What Device tree
+6. How your application communicate with Hareware
+7. What is the function pointer and use of it
+8. What is the NULL pointer 
+9. Write a program to string reverse you have to pass string as a argument
+10. int main()
+	{
+		float arr[5] = {12.5, 10.0, 13.5, 90.5, 0.5};
+		float *ptr1 = &arr[0];
+		float *ptr2 = ptr1 + 3;
+	 
+		printf("%f ", *ptr2);
+		printf("%d", ptr2 - ptr1);
+		
+		return 0;
+	}
+11. Is it possible take static as afunction argument
+12. What is the Arbitration in I2C 
+13. In SPI communication How master comunicate with the particular slave
+14. what is the spinlock
+15. What is the dangling pointer how to avoid

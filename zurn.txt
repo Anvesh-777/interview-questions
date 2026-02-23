@@ -1,0 +1,16 @@
+Introduction – Please introduce yourself.
+What features have you implemented in your project?
+What does online connectivity mean in the CJ2M project, and how does it work?
+Explain the booting sequence of a microcontroller.
+What communication protocols do you know?
+Explain SPI. How many slaves can be connected to an SPI master?
+If there is only one CS/SS pin, how can multiple slaves be connected to the SPI master?
+Explain I2C. How many slaves can be connected to an I2C master?
+What are the concepts of dynamic memory allocation in C?
+What are the differences between a structure and a union?
+If a structure contains int and char members with bit-fields, will memory be allocated at the bit level or byte level?
+What are the differences between malloc() and calloc()?
+When calling free(), how does it know how many bytes need to be freed?
+What storage classes are available in C?
+What is a function pointer? What are its use cases? What is its prototype syntax?
+What is an ISR? If I use printf() inside an ISR for debugging and nothing is printed, what could be the issue?

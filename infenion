@@ -1,0 +1,20 @@
+1. Give a brief introduction about your recent project. 
+2. What were your exact roles and responsibilities in the project? 
+3. Explain the activities you performed from requirement analysis to testing. 
+4. What details did you include in the Detailed Design Document (DDD), and which tools did you use to create it? 
+5. How did you test your module? Provide an example of a test case. 
+6. Which tool did you use for testing, and why did you choose that tool? 
+7. What is the purpose of the Coverity tool? 
+8. What is static analysis? 
+9. What is the role of functional testing in software development? 
+10. Explain the build process in your project. 
+11. What output format do you get after a successful build? 
+12. What is the difference between .exe and .hex files? 
+13. Which tool did you use for flashing, and can you explain the flashing process? 
+14. What are the prerequisites for implementing an SPI driver? 
+15. How many pins does SPI have, and what are they? 
+16. If you want to connect multiple slave devices but only have one Chip Select (CS) pin, how would you handle this situation? 
+17. How do you configure the GPIO driver? 
+18. How do you calculate timer values in an embedded system? 
+19. Explain malloc() and calloc() in C. 
+How does free() know the exact block of memory that needs to be freed?
